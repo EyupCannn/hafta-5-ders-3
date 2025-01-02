@@ -1,0 +1,19 @@
+.kapsa1{display: flex;}
+
+.k1{
+    background-color: grey;
+    width: 90vw;
+    height: 30vh;
+    padding: 30px;
+    border-bottom:  1px dotted green;
+}
+.Kategori1 a{
+     
+    color: darkred;
+text-decoration: none;
+display: block;}
+
+.Kategori1 p{padding-bottom: 5px;
+border-bottom: dotted black 0.5px;
+}
+    
